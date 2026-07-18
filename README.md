@@ -1,4 +1,5 @@
 ## Hi, I'm Luz Castillo 👋
+<img width="1600" height="639" alt="WhatsApp Image 2026-07-17 at 22 19 47 (1)" src="https://github.com/user-attachments/assets/ca9043f7-5631-45cf-b7c1-84059e2c5b82" />
 
 <!--
 **lucyneitor/lucyneitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
